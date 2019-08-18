@@ -7,3 +7,10 @@
     1. In react-big-calender
     2. In table formate
 - we add, update and delete the events.
+
+run the application
+
+-   git clone https://github.com/chirag0411/react-hooks-calendar-demo.git
+-   npm install
+-   npm start
+-   nm build for production
